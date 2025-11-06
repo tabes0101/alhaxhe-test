@@ -1,5 +1,4 @@
-# alhaxhe-test
-meing alhaxhi test jobam
+
 <!DOCTYPE html>
 <html lang="kk">
 <head>
